@@ -38,7 +38,7 @@ Algunos de los Tipos de Eventos que puedes esperar son:
 
 ## ¿Quién se puede unir a los Eventos?
 
-Los Eventos estarán disponibles en general para los miembros de nuestra comunidad, algunos eventos serán gratis y otros requerirán de una membrecía.
+Los Eventos estarán disponibles en general para los miembros de nuestra comunidad, algunos eventos serán gratis y otros requerirán de una membresía.
 
 También se transmitirán eventos gratuitos en [4Geeks.com youtube channel](https://www.youtube.com/@4Geeks_).
 
